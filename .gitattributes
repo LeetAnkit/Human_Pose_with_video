@@ -1,0 +1,11 @@
+# Handle Python files
+*.py text eol=lf
+
+# Handle JSON files
+*.json text eol=lf
+
+# Treat all other files as text
+* text=auto
+
+# Ignore virtual environment
+venv/** text eol=crlf
