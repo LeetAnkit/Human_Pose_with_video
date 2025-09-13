@@ -1,6 +1,6 @@
 config.json
-
 venv/
-*.pyc
 __pycache__/
-.DS_Store
+*.mp4
+*.avi
+*.mov
